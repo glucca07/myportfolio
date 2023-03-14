@@ -1,7 +1,7 @@
 # myportfolio
 Meu Portfólio, para que as pessoas conheçam meu trabalho, minhas qualificações e saibam por onde podem me contatar.
 
-![image]()
+![image](https://github.com/glucca07/myportfolio/blob/main/main-page-sceenshot.jpeg)
 
 ## Ferramentas utilizadas:
 
